@@ -1,0 +1,22 @@
+{
+  "name": "testpr-checks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Spoor2709/testpr-checks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Spoor2709/testpr-checks/issues"
+  },
+  "homepage": "https://github.com/Spoor2709/testpr-checks#readme",
+  "dependencies": {
+    "loadash": "^1.0.0"
+  }
+}
